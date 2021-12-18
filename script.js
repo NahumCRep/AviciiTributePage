@@ -30,16 +30,6 @@ const videos = [
         "name": "Levels",
         "url": "https://www.youtube.com/embed/_ovdm2yX4MA",
         "srcId": "_ovdm2yX4MA"
-    },
-    {
-        "name": "ruso",
-        "url": "https://www.youtube.com/embed/HR5zpFs7YpY",
-        "srcId": "HR5zpFs7YpY"
-    },
-    {
-        "name": "ruso 2",
-        "url": "https://www.youtube.com/embed/FNcAenPWEFA",
-        "srcId": "FNcAenPWEFA"
     }
 ]
 
