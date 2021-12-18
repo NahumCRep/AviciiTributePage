@@ -76,11 +76,11 @@ html h1 {
   width: 100%;
   height: 40px;
   position: absolute;
-  bottom: -6%;
+  bottom: -40px;
   background-color: #000;
   -webkit-clip-path: polygon(100% 0, 0 0, 0 100%);
           clip-path: polygon(100% 0, 0 0, 0 100%);
-  z-index: 200;
+  z-index: -1;
 }
 
 .header__section .h-content {
